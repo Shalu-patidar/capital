@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.capital-container {
+  background-color: #ffffff;
+  width: 80%;
+  border-radius: 12px;
+  max-width: 606px;
+  padding: 24px;
+}
+.heading {
+  color: #323f4b;
+  font-family: 'Roboto';
+}
+.capital-select {
+  height: 25px;
+  width: 120px;
+  margin-right: 20px;
+}
+.question-container {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
